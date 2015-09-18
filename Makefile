@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 10
 SUBLEVEL = 61
-EXTRAVERSION =_goodhanrry_v1.0
+EXTRAVERSION =_goodhanrry_v1.0_root
 NAME = TOSSUG Baby Fish
 
 # *DOCUMENTATION*
